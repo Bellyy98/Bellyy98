@@ -2,7 +2,8 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I’m+Billy;Billy+for+sure+:)&color=cyan&center=true" />
 </div>
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
-- 👀 Hi My name is Billy
+-  Hi My name is Billy
+-  I am a student of MIT
  <br  />
  <div style="margin-top:30px; background-color:white; height:200px">
  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/> 
