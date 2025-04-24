@@ -1,10 +1,16 @@
  <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I’m+Billy;Billy+for+sure+:)&color=cyan&center=true" />
 </div>
+<h3 align="center">A Website Development Enthusiast</h3>
+
+<br/>
+
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
 - 👀 Hi My name is Billy
- <br  />
- <div style="margin-top:30px; background-color:white; height:200px">
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+
+<hr/>
+ <div style="margin-top:30px; background-color:white; height:200px" align="center">
  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/> 
  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" /> 
  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
@@ -30,9 +36,10 @@
  <img src="https://skillicons.dev/icons?i=codepen" width="50"/>
  <img src="https://skillicons.dev/icons?i=apollo" width="50"/>
  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+   <img src="https://skillicons.dev/icons?i=vscode,git,github" /><br>
  </div>
- <br /> 
- 
+<br/>
+<hr/>
 
 <br/>
 <br/>
