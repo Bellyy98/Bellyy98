@@ -7,7 +7,7 @@
 
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
 -  Hi My name is Billy
--  I am a student of MIT
+-  I am a student of CNU
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 
 <hr/>
